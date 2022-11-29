@@ -5,5 +5,5 @@ Bacterial leaf spot is a common bacterial plant infection seen all around the wo
 # Dataset
 Total 2496 images have been used for classification, out of which 1478 are of healthy leafes and 997 are bacteria affected.
 
-Healthy Leaf \n
-<
+Healthy Leaf
+<img src="images/Bacterial_Spot_Leaf.JPG" width="100">
