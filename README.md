@@ -24,4 +24,5 @@ Below graph for the Training and Validation Accuracy & Loss<br />
 
 # Prediction
 Prediction is done on a batch of a test dataset and below are the results.<br />
+<br />
 <img src="images/prediction.png" width="1000"><br />
