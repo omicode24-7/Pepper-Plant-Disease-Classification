@@ -8,4 +8,22 @@ Total 2496 images have been used for classification, out of which 1478 are of he
 Healthy Leaf<br />
 <img src="images/Bacterial_Spot_Leaf.JPG" width="200"><br />
 Bacterial Spot Leaf<br />
-<img src="images/Bacterial_Spot_Leaf.JPG" width="200"><br />
+<img src="images/Healthy_Leaf.JPG" width="200"><br />
+
+# Data Augmentation
+Data augmentation technique like RandomFlip & RandomRotation has been used to increase the number of images to get better results
+
+# Convolution Neural Netword
+A CNN model is created for image classification with activation relu for Convolution and Dense layers and activation sigmoid for output layer for Binary Classification.<br />
+To counter overfitting L2 Regularization and Dropout method is used.<br />
+Below is the model summary.<br />
+<img src="images/Accuracy_&_Loss.png" width="200"><br />
+
+# Training
+model is trained for 15 epochs with adam optimizer. The training accuracy is and validation accuracy is .<br />
+Below graph for the Training and Validation Accuracy & Loss<br />
+<img src="images/Healthy_Leaf.JPG" width="200"><br />
+
+# Prediction
+Prediction is done on a batch of a test dataset and below are the results.
+<img src="images/prediction.png" width="200"><br />
