@@ -13,7 +13,7 @@ Bacterial Spot Leaf<br />
 # Data Augmentation
 Data augmentation technique like RandomFlip & RandomRotation has been used to increase the number of images to get better results
 
-# Convolution Neural Netword
+# Convolution Neural Network
 A CNN model is created for image classification with activation relu for Convolution and Dense layers and activation sigmoid for output layer for Binary Classification.<br />
 To counter overfitting L2 Regularization and Dropout method is used.<br />
 
