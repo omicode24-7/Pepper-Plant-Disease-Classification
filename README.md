@@ -18,7 +18,7 @@ A CNN model is created for image classification with activation relu for Convolu
 To counter overfitting L2 Regularization and Dropout method is used.<br />
 
 # Training
-model is trained for 15 epochs with adam optimizer. The training accuracy is and validation accuracy is .<br />
+model is trained for 15 epochs with adam optimizer. The training accuracy is 98.98% and validation accuracy is 99.44%.<br />
 Below graph for the Training and Validation Accuracy & Loss<br />
 <img src="images/Accuracy_&_Loss.png" width="500"><br />
 
